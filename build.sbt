@@ -10,3 +10,5 @@ libraryDependencies ++= Seq(
   "org.scala-js" %%% "scalajs-dom" % "0.9.1",
   "com.lihaoyi" %%% "scalatags" % "0.6.1"
 )
+
+libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.1" % "test"
